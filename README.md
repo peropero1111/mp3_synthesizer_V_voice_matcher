@@ -2,7 +2,20 @@
 using gemini
 </br>
 </br>
-app.py를 사용하시기전에 다음 절차를 따라 주십시오.
+사용하시기전에 다음 절차를 따라 주십시오.
+</br>
+</br>
+app.py 와 gemini_recomender.py 및 voices_data.py 는 한 폴더에 있어야 하며 실행하실파일은 app.py 입니다.
+</br>
+</br>
+</br>
+사용하시기 전에 
+```python
+pip install -U google-genai
+```
+다음 라이브러리들을 설치해 주셔야 사용이 가능합니다.
+</br>
+</br>
 </br>
 아래에 더욱 쉬운 이해를 위한 이미지가 있습니다.
 </br>
